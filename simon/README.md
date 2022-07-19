@@ -1,3 +1,3 @@
 # Simon game
 Not yet completed.
-Problem with "AGAIN" button
+Problem occurs when tried again after losing
